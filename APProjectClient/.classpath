@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Libraries/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="Libraries/prompt.jar"/>
+	<classpathentry kind="lib" path="Libraries/xswingx.jar"/>
+	<classpathentry kind="lib" path="Libraries/balloontip-1.2.4.1.jar"/>
+	<classpathentry kind="lib" path="Libraries/log4j-api-2.13.3.jar"/>
+	<classpathentry kind="lib" path="Libraries/log4j-core-2.13.3.jar"/>
+	<classpathentry kind="lib" path="Libraries/jdatepicker-1.3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
